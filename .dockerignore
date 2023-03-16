@@ -1,0 +1,7 @@
+vendor
+node_modules
+logs/
+.git
+.cache
+public/packs
+public/uploads
